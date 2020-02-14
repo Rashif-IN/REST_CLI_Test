@@ -1,0 +1,14 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "activity": "Tidur siang",
+      "condition": false
+    },
+    {
+      "id": 2,
+      "activity": "Makan malam",
+      "condition": false
+    }
+  ]
+}

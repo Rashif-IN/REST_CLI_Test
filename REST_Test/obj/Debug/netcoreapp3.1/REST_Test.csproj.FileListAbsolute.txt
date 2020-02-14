@@ -1,0 +1,14 @@
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/REST_Test
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/REST_Test.deps.json
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/REST_Test.runtimeconfig.json
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/REST_Test.runtimeconfig.dev.json
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/REST_Test.dll
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/REST_Test.pdb
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/McMaster.Extensions.CommandLineUtils.dll
+/Users/user/Projects/REST_Test/REST_Test/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/user/Projects/REST_Test/REST_Test/obj/Debug/netcoreapp3.1/REST_Test.csprojAssemblyReference.cache
+/Users/user/Projects/REST_Test/REST_Test/obj/Debug/netcoreapp3.1/REST_Test.AssemblyInfoInputs.cache
+/Users/user/Projects/REST_Test/REST_Test/obj/Debug/netcoreapp3.1/REST_Test.AssemblyInfo.cs
+/Users/user/Projects/REST_Test/REST_Test/obj/Debug/netcoreapp3.1/REST_Test.csproj.CopyComplete
+/Users/user/Projects/REST_Test/REST_Test/obj/Debug/netcoreapp3.1/REST_Test.dll
+/Users/user/Projects/REST_Test/REST_Test/obj/Debug/netcoreapp3.1/REST_Test.pdb

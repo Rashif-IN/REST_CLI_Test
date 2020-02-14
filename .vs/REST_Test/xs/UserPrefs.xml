@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2124234A-7EBB-470C-AED3-076FF379EC65}|Default">
+  <MonoDevelop.Ide.ItemProperties.REST__Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="REST_Test/Program.cs">
+    <Files>
+      <File FileName="REST_Test/Program.cs" Line="38" Column="36" />
+      <File FileName="db.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="REST_Test" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="REST_Test" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
